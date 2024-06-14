@@ -1,16 +1,17 @@
 # DevOps-in-Arabic
-Overview
-Welcome to the DevOps-in-Arabic repository! This repository provides comprehensive summaries of essential DevOps tools,
-all translated into Arabic for ease of understanding. The summaries are derived from the official documentation and 
-books of each tool to ensure accuracy and depth.
+# Overview
+# Welcome to the DevOps-in-Arabic repository! This repository provides comprehensive summaries of essential DevOps tools,
+# all translated into Arabic for ease of understanding. The summaries are derived from the official documentation and 
+# books of each tool to ensure accuracy and depth.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Table of Contents
-Linux Admin 1
-Linux Admin 2
-Ansible
-Terraform
-Docker
-Kubernetes
+# Table of Contents
+# Linux Admin 1
+# Linux Admin 2
+# Ansible
+# Terraform
+# Docker
+# Kubernetes
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 1. Linux Admin 1
 Overview
 Linux administration is a fundamental skill for any DevOps professional. This section covers the basics of managing Linux systems,
