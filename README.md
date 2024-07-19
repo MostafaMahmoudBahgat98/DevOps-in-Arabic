@@ -113,11 +113,11 @@ Kubernetes is an open-source platform for automating the deployment, scaling, an
 Jenkins is an open-source automation server that enables continuous integration and continuous delivery (CI/CD) for any development project. This section covers its core concepts and functionality.
 
 ### Key Topics
-* **Introduction to Jenkins: Understanding Jenkins and its role in CI/CD.
-* **Installing and Configuring Jenkins: Setting up Jenkins and configuring its settings.
-* **Pipelines: Creating and managing Jenkins pipelines for automation.
-* **Plugins: Extending Jenkins functionality with plugins.
-* **Integration with Other Tools: Integrating Jenkins with other DevOps tools and services.
+* Introduction to Jenkins: Understanding Jenkins and its role in CI/CD.
+* Installing and Configuring Jenkins: Setting up Jenkins and configuring its settings.
+* Pipelines: Creating and managing Jenkins pipelines for automation.
+* Plugins: Extending Jenkins functionality with plugins.
+* Integration with Other Tools: Integrating Jenkins with other DevOps tools and services.
 
 
 ## 8. Git and GitHub
@@ -125,8 +125,8 @@ Jenkins is an open-source automation server that enables continuous integration 
 Git is a distributed version control system, and GitHub is a platform for hosting and collaborating on Git repositories. This section covers their essential concepts and usage.
 
 ### Key Topics
-* **Introduction to Git: Understanding Git and its core concepts.
-* **Basic Git Commands: Using basic Git commands for version control.
-* **Branching and Merging: Managing branches and merging changes.
-* **GitHub Basics: Understanding GitHub and its features.
-* **Collaboration with GitHub: Collaborating on projects using GitHub.  
+* Introduction to Git: Understanding Git and its core concepts.
+* Basic Git Commands: Using basic Git commands for version control.
+* Branching and Merging: Managing branches and merging changes.
+* GitHub Basics: Understanding GitHub and its features.
+* Collaboration with GitHub: Collaborating on projects using GitHub.  
