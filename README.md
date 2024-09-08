@@ -129,4 +129,21 @@ Git is a distributed version control system, and GitHub is a platform for hostin
 * Basic Git Commands: Using basic Git commands for version control.
 * Branching and Merging: Managing branches and merging changes.
 * GitHub Basics: Understanding GitHub and its features.
-* Collaboration with GitHub: Collaborating on projects using GitHub.  
+* Collaboration with GitHub: Collaborating on projects using GitHub.
+
+## 9. OCI (Oracle Cloud Infrastructure)
+### Overview
+Oracle Cloud Infrastructure (OCI) is a cloud platform offering a wide range of computing, storage, and networking services to help organizations build and run applications and workloads. This section covers the core features and functionalities of OCI, along with its key services.
+
+### Key Topics
+* Introduction to OCI: Understanding Oracle Cloud Infrastructure, its architecture, and global regions.
+* OCI Core Services: Overview of compute, storage, and networking services in OCI.
+* Identity and Access Management (IAM): Managing users, groups, policies, and roles for secure access.
+* Virtual Cloud Networks (VCN): Creating and configuring VCNs, subnets, and internet gateways.
+* Compute Instances: Launching and managing virtual machines (VMs) on OCI.
+* Block Storage and Object Storage: Managing persistent storage solutions for various use cases.
+* Load Balancing and High Availability: Setting up load balancers and ensuring service redundancy.
+* Database Services: Utilizing OCI’s managed database services, including Oracle Autonomous Database.
+* Monitoring and Logging: Using OCI's monitoring and logging tools to track performance and troubleshoot issues.
+* Cost Management and Budgeting: Tools and strategies for managing and optimizing cloud costs in OCI.
+* Security Best Practices: Implementing security measures, including encryption, firewalls, and security lists.  
